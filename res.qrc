@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/root">
+        <file>resources/map.png</file>
+        <file>resources/backIcon.png</file>
+        <file>resources/bmstuIcon.png</file>
+        <file>resources/bmstuIconGrey.png</file>
+        <file>resources/icoStudent.png</file>
+        <file>resources/panorama.gif</file>
+        <file>resources/panorama-indoor.gif</file>
+        <file>resources/verifiedMark.png</file>
+        <file>resources/WIP.gif</file>
+    </qresource>
+</RCC>
